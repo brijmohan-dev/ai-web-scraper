@@ -1,0 +1,9 @@
+python-dotenv==1.1.1
+ollama==0.5.4
+beautifulsoup4==4.13.5
+openai==1.108.1
+requests==2.32.5
+rich==14.1.0
+prometheus_client==0.23.1
+diskcache==5.6.3
+playwright==1.55.0
